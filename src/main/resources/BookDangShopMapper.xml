@@ -21,6 +21,13 @@
   </select>
 
 
+  <select id="displayBook" resultMap="BaseResultMap">
+    select
+    *
+    from BOOK_DANG_SHOP
+
+  </select>
+
 
 
 </mapper>

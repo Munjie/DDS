@@ -17,4 +17,11 @@ private BookDangShopDao bookDangShopDao;
       return   bookDangShopDao.queryBookByType(bookType);
     }
 
+
+    //显示全部书
+    public   List<BookDangShop> displayBook(){
+
+        return  bookDangShopDao.displayBook();
+    }
+
 }

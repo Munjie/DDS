@@ -1,8 +1,10 @@
 package com.mwj.controller;
 
 
+import com.mwj.bean.BookDangShop;
 import com.mwj.bean.BookTypeDangShop;
 import com.mwj.bean.User;
+import com.mwj.services.BookDangShopServices;
 import com.mwj.services.BookTypeDangShopServices;
 import com.mwj.services.UserServices;
 import org.springframework.stereotype.Controller;
@@ -23,6 +25,9 @@ public class UserController {
 
     @Resource
    private BookTypeDangShopServices bookTypeDangShopServices;
+
+    @Resource
+    private BookDangShopServices bookDangShopServices;
 
 
 
@@ -49,8 +54,11 @@ public class UserController {
 
         if (login) {
             List<BookTypeDangShop> bookTypeDangShops = bookTypeDangShopServices.showAllBookType();
+            List<BookDangShop> bookDangShops = bookDangShopServices.displayBook();
             model.addAttribute("book",bookTypeDangShops);
-            return "index";
+            model.addAttribute("bookinfo",bookDangShops);
+
+            return "main";
         }
 
             return

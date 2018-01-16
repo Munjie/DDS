@@ -16,13 +16,16 @@ public class BookDangShopDao {
     private BookDangShopMapper bookDangShopMapper;
 
 
-
+//更具书的类型查看书
     public  List<BookDangShop> queryBookByType(int bookType){
 
         return bookDangShopMapper.queryBookByType(bookType);
     }
 
+//显示全部书
+    public   List<BookDangShop> displayBook(){
 
-
+        return  bookDangShopMapper.displayBook();
+    }
 
 }

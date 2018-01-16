@@ -10,4 +10,6 @@ public interface BookDangShopMapper {
 
     List<BookDangShop> queryBookByType(@Param("bookType") int bookType);
 
+    List<BookDangShop> displayBook();
+
 }
