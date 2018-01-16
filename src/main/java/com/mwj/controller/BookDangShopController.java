@@ -29,6 +29,18 @@ public class BookDangShopController {
         else
             return
             null;
+    }
+    @RequestMapping("product.do")
+    public  String product(Model model){
+
+        List<BookDangShop> bookDangShops = bookDangShopServices.displayBook();
+        model.addAttribute("info",bookDangShops);
+        if (bookDangShops != null)
+            return
+                    "product";
+        else
+            return
+                    null;
 
 
 

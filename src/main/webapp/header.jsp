@@ -53,7 +53,7 @@
         <ul id="menu_left_bold">
             <li><a href="index.html" target="_parent" class="bold">首页</a></li>
             <li>|</li>
-            <li><a href="product.html" target="_parent" class="bold">图书</a></li>
+            <li><a href="product.do" target="_parent" class="bold">图书</a></li>
             <li>|</li>
             <li><a href="#" target="_self" class="bold">音乐</a></li>
             <li>|</li>

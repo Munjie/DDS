@@ -1,5 +1,6 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@page isELIgnored="false" %>
+<%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
 <%--
   Created by IntelliJ IDEA.
   User: Administrator
@@ -82,27 +83,42 @@
         <div id="bookTab" class="book_sort">
             <div class="book_new">
                 <div class="book_left">最新上架</div>
-                <div class="book_type book_type_out" id="history">历史</div>
-                <div class="book_type" id="family">家教</div>
-                <div class="book_type" id="culture">文化</div>
-                <div class="book_type" id="novel">小说</div>
+                <div  class="book_type" id="history" onmousemove="this.className='book_type_out'" onmouseout="this.className='book_type'">历史</div>
+                <div  class="book_type"  id="family" onmousemove="this.className='book_type_out'" onmouseout="this.className='book_type'">家教</div>
+                <div  class="book_type" id="culture" onmousemove="this.className='book_type_out'" onmouseout="this.className='book_type'">文化</div>
+                <div class="book_type" id="novel" onmousemove="this.className='book_type_out'" onmouseout="this.className='book_type'">小说</div>
                 <div class="book_right"><a href="#">更多>></a></div>
             </div>
             <div class="book_class" style="height:250px;">
                 <!--历史-->
                 <dl id="book_history">
-                    <dt><img src="images/dd_history_1.jpg" alt="history"/></dt>
+                  <c:forEach items="${bookinfo}" var="in">
+                    <dt><img src="images/${in.bookImg}" alt="history"/></dt>
                     <dd>
-                        <font class="book_title">《中国时代》（上）</font><br />
-                        作者：师永刚，邹明　主编 <br />
-                        出版社：作家出版社 <br />
-                        <font class="book_publish">出版时间：2009年10月</font><br />
-                        定价：￥39.00<br />
-                        当当价：￥27.00
+                        <font class="book_title">${in.bookname}</font><br />
+                        作者：${in.authorname} <br />
+                        出版社:${in.publishname}<br />
+                        <font class="book_publish">出版时间:<fmt:formatDate  value="${in.publishdate}" pattern="yyyy年MM月" ></fmt:formatDate></font><br />
+
+                        定价：￥${in.bookprice}<br />
+                        当当价：￥${in.dangbookPrice}
                     </dd>
+                  </c:forEach>
                 </dl>
                 <!--家教-->
                 <dl id="book_family" class="book_none">
+                    <c:forEach items="${bookinfo}" var="in">
+                        <dt><img src="images/${in.bookImg}" alt="history"/></dt>
+                        <dd>
+                            <font class="book_title">${in.bookname}</font><br />
+                            作者：${in.authorname} <br />
+                            出版社:${in.publishname}<br />
+                            <font class="book_publish">出版时间:<fmt:formatDate  value="${in.publishdate}" pattern="yyyy年MM月" ></fmt:formatDate></font><br />
+
+                            定价：￥${in.bookprice}<br />
+                            当当价：￥${in.dangbookPrice}
+                        </dd>
+                    </c:forEach>
                 </dl>
                 <!--文化-->
                 <dl id="book_culture" class="book_none">
