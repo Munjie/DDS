@@ -7,198 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cecade27-c3f0-4c0c-b9c1-92269041d818" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/WEB-INF/lib/ojdbc6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/OK.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_arrow_down.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_arrow_right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_bang.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_book_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_book_bg1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_book_bg2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_book_cate_icon.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_book_mess.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_book_no_01.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_book_no_02.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_book_no_03.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_book_no_04.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_book_no_05.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_book_no_06.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_book_no_07.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_book_no_08.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_book_no_09.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_book_no_10.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_book_right_adver1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_book_right_adver2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_culture_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_culture_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_culture_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_culture_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_family_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_family_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_family_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_family_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_focus_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_focus_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_focus_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_focus_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_focus_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_focus_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_focus_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_focus_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_head_bg_left.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_head_bg_mid.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_head_bg_right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_header_1_a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_header_2_a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_header_3_a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_header_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_header_search_btn.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_header_search_top.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_header_shop.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_header_top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_history_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_history_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_history_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_history_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_index_top_adver.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_logo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_novel_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_novel_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_novel_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_novel_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_scroll.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_scroll_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_scroll_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_scroll_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_scroll_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_scroll_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_scroll_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_scroll_end.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_scroll_top.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_seven_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_seven_bg1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_seven_bg2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_seven_hearten_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_seven_hearten_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_seven_hearten_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/dd_winOpen.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/login_header.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/login_icon_bg_01.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/login_icon_bg_02.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/login_main_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/login_main_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/login_main_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/login_main_04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/logo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/next.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/product_01.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/product_02.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/product_buy_01.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/product_buy_02.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/product_icon_01.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/product_icon_02.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/product_icon_03.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/product_icon_04.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/product_icon_20.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/product_icon_40.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/product_left_top_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/product_list_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/product_list_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/product_list_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/product_list_04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/product_list_05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/product_page_down.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/product_page_up.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/register_btn_out.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/register_btn_over.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/register_cont.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/register_dotted.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/register_head_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/register_pic_01.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/register_pic_02.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/register_shadow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/register_tag_left.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/register_tag_mid.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/register_tag_right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/register_top_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/register_write_ok.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/shopping_arrow_down.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/shopping_arrow_up.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/shopping_balance.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/shopping_commend_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/shopping_dotted.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/shopping_myshopping.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/star_gray.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/star_red.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/star_red2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/images/validate.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/.idea/artifacts/DangDangShop_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/.idea/artifacts/DangDangShop_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/.idea/libraries/Maven__org_springframework_spring_aop_4_3_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/.idea/libraries/Maven__org_springframework_spring_beans_4_3_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/.idea/libraries/Maven__org_springframework_spring_context_4_3_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/.idea/libraries/Maven__org_springframework_spring_core_4_3_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/.idea/libraries/Maven__org_springframework_spring_expression_4_3_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/.idea/libraries/Maven__org_springframework_spring_tx_4_3_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/.idea/libraries/Maven__org_springframework_spring_web_4_3_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/.idea/libraries/lib.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/DangDangShop.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/bean/BookDangShop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/bean/BookTypeDangShop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/bean/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/controller/BookDangShopController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/controller/BookTypeDangShopController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/controller/UserController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/dao/BookDangShopDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/dao/BookTypeDangShopDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/dao/UserDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/mapper/BookDangShopMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/mapper/BookTypeDangShopMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/mapper/UserMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/services/BookDangShopServices.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/services/BookTypeDangShopServices.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/services/UserServices.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/resources/BookDangShopMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/resources/BookTypeDangShopMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/resources/UserMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/resources/springmvc-mybaties.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/resources/springmvc-servilet.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/css/global.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/css/layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/css/template.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/footer.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/header.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/js/jquery-1.8.3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/js/login.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/js/register.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/js/shopping.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/login.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DangDangShop/src/main/webapp/register.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DangDangShop.iml" afterPath="$PROJECT_DIR$/DangDangShop.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" />
     </list>
-    <ignored path="$PROJECT_DIR$/../DangDangShop/out/" />
-    <ignored path="$PROJECT_DIR$/../DangDangShop/target/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -209,7 +24,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="BookDangShopController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/controller/BookDangShopController.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mwj/controller/BookDangShopController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="600">
               <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
@@ -221,7 +36,7 @@
         </entry>
       </file>
       <file leaf-file-name="BookTypeDangShopMapper.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/resources/BookTypeDangShopMapper.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/BookTypeDangShopMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
               <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
@@ -232,18 +47,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/webapp/index.jsp">
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2375">
-              <caret line="95" column="45" lean-forward="false" selection-start-line="95" selection-start-column="45" selection-end-line="95" selection-end-column="45" />
-              <folding />
+            <state relative-caret-position="484">
+              <caret line="96" column="33" lean-forward="false" selection-start-line="96" selection-start-column="33" selection-end-line="96" selection-end-column="33" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#3;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="springmvc-mybaties.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/resources/springmvc-mybaties.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc-mybaties.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="575">
               <caret line="23" column="60" lean-forward="false" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
@@ -252,14 +69,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BookDangShopMapper.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/resources/BookDangShopMapper.xml">
+      <file leaf-file-name="BookDangShopMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/BookDangShopMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="625">
-              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+              <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
               <folding>
                 <marker date="1516013325589" expanded="true" signature="1056:1127" ph="select from BOOK_DANG_SHOP" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="80" column="32" lean-forward="false" selection-start-line="80" selection-start-column="32" selection-end-line="80" selection-end-column="32" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -277,7 +104,7 @@
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../DangDangShop" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -287,37 +114,37 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../DangDangShop/pom.xml" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/webapp/footer.jsp" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/webapp/header.jsp" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/bean/User.java" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/resources/map/UserMapper.xml" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/resources/springmvc-servilet.xml" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/webapp/register.jsp" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/webapp/js/register.js" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/mapper/UserMapper.java" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/services/UserServices.java" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/resources/UserMapper.xml" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/services/BookTypeDangShopServices.java" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/webapp/js/login.js" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/webapp/login.jsp" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/controller/BookTypeDangShopController.java" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/webapp/css/layout.css" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/bean/BookDangShop.java" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/webapp/js/index.js" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/resources/BookDangShopMapper.xml" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/dao/BookTypeDangShopDao.java" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/mapper/BookTypeDangShopMapper.java" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/resources/BookTypeDangShopMapper.xml" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/mapper/BookDangShopMapper.java" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/dao/BookDangShopDao.java" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/services/BookDangShopServices.java" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/controller/BookDangShopController.java" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/webapp/index.jsp" />
-        <option value="$PROJECT_DIR$/../DangDangShop/src/main/resources/springmvc-mybaties.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/footer.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/header.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mwj/bean/User.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/map/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/springmvc-servilet.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/register.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/register.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mwj/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mwj/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mwj/services/UserServices.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mwj/services/BookTypeDangShopServices.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/login.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mwj/controller/BookTypeDangShopController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mwj/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/css/layout.css" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mwj/bean/BookDangShop.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/index.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/BookDangShopMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mwj/dao/BookTypeDangShopDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mwj/mapper/BookTypeDangShopMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/BookTypeDangShopMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mwj/mapper/BookDangShopMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mwj/dao/BookDangShopDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mwj/services/BookDangShopServices.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mwj/controller/BookDangShopController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/springmvc-mybaties.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
       </list>
     </option>
   </component>
@@ -337,7 +164,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.3.9-bin/apache-maven-3.3.9" />
+        <option name="mavenHome" value="E:/apache-maven-3.3.9-bin/apache-maven-3.3.9" />
         <option name="userSettingsFile" value="E:\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -348,8 +175,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="20" />
-    <option name="y" value="8" />
+    <option name="x" value="-47" />
+    <option name="y" value="63" />
     <option name="width" value="1872" />
     <option name="height" value="1096" />
   </component>
@@ -369,14 +196,44 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="DangDangShop" type="b2602c69:ProjectViewProjectNode" />
               <item name="DangDangShop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DangDangShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DangDangShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DangDangShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DangDangShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DangDangShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DangDangShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DangDangShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DangDangShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DangDangShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DangDangShop" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -389,7 +246,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="F:/MyDang" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -429,7 +286,7 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../DangDangShop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -580,12 +437,21 @@
       <option name="presentableId" value="Default" />
       <updated>1515981525052</updated>
       <workItem from="1515981529242" duration="30513000" />
-      <workItem from="1516063356506" duration="1912000" />
+      <workItem from="1516063356506" duration="2967000" />
+      <workItem from="1516089623501" duration="734000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1516077650714</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1516077650714</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32425000" />
+    <option name="totallyTimeSpent" value="34214000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -598,36 +464,37 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25652173" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25729167" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17910448" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32681867" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25652173" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10108696" sideWeight="0.49573562" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17910448" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32681867" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -638,11 +505,20 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="F:/MyDang" />
+      <path value="F:/mygit" />
+      <path value="F:/" />
+    </ignored-roots>
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/dao/UserDao.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/mwj/dao/UserDao.java</url>
           <line>24</line>
           <properties class="com.mwj.dao.UserDao" method="login">
             <option name="EMULATED" value="true" />
@@ -655,7 +531,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/controller/BookDangShopController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mwj/controller/BookDangShopController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
@@ -665,7 +541,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/resources/BookTypeDangShopMapper.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/BookTypeDangShopMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
@@ -675,15 +551,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/webapp/index.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2375">
           <caret line="95" column="45" lean-forward="false" selection-start-line="95" selection-start-column="45" selection-end-line="95" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#3;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc-mybaties.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="60" lean-forward="false" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/resources/springmvc-mybaties.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/BookDangShopMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <marker date="1516013325589" expanded="true" signature="1056:1127" ph="select from BOOK_DANG_SHOP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2150">
+          <caret line="86" column="14" lean-forward="false" selection-start-line="86" selection-start-column="14" selection-end-line="86" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mwj/controller/BookDangShopController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/BookTypeDangShopMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <marker date="1516002893443" expanded="true" signature="596:665" ph="select t.*, BOOKTYPE_DANG_SHOP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2375">
+          <caret line="95" column="45" lean-forward="false" selection-start-line="95" selection-start-column="45" selection-end-line="95" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#3;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc-mybaties.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
           <caret line="23" column="60" lean-forward="true" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
@@ -691,7 +625,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/resources/BookDangShopMapper.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/BookDangShopMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="29" />
@@ -701,29 +635,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/footer.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2150">
-          <caret line="86" column="14" lean-forward="false" selection-start-line="86" selection-start-column="14" selection-end-line="86" selection-end-column="14" />
+        <state relative-caret-position="500">
+          <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/webapp/footer.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/webapp/header.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/header.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="20" column="63" lean-forward="false" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/resources/springmvc-servilet.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc-servilet.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
@@ -731,7 +659,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/bean/User.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mwj/bean/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="26" />
@@ -752,42 +680,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/webapp/register.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/register.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="81" column="98" lean-forward="false" selection-start-line="81" selection-start-column="98" selection-end-line="81" selection-end-column="98" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/webapp/js/register.js">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/register.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
           <caret line="180" column="0" lean-forward="false" selection-start-line="180" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/resources/UserMapper.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/UserMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-112">
           <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <marker date="1516000422826" expanded="true" signature="694:844" ph="insert into USER_DANG_SHOP... " />
+            <marker date="1516000422826" expanded="true" signature="949:985" ph="SELECT count... USER_DANG_SHOP" />
+            <marker date="1516000422826" expanded="true" signature="1341:1490" ph="SELECT count... USER_DANG_SHOP" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/mapper/UserMapper.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mwj/mapper/UserMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" column="70" lean-forward="false" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/services/UserServices.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mwj/services/UserServices.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
           <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="354">
           <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
@@ -795,70 +732,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/webapp/js/login.js">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/login.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="45" column="6" lean-forward="true" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/webapp/login.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/login.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-96">
           <caret line="52" column="46" lean-forward="false" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="46" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/webapp/css/layout.css">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/layout.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="149" column="14" lean-forward="false" selection-start-line="149" selection-start-column="1" selection-end-line="149" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/bean/BookTypeDangShop.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mwj/bean/BookTypeDangShop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/services/BookTypeDangShopServices.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mwj/services/BookTypeDangShopServices.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="498">
           <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/controller/BookTypeDangShopController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mwj/controller/BookTypeDangShopController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="424">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/controller/UserController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mwj/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="74">
           <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/dao/BookTypeDangShopDao.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mwj/dao/BookTypeDangShopDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="398">
           <caret line="20" column="41" lean-forward="false" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/mapper/BookTypeDangShopMapper.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mwj/mapper/BookTypeDangShopMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/dao/UserDao.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mwj/dao/UserDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="499">
           <caret line="36" column="5" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="36" selection-end-column="5" />
@@ -868,50 +812,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/dao/BookDangShopDao.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mwj/dao/BookDangShopDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="23" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/webapp/js/index.js">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/mapper/BookDangShopMapper.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mwj/mapper/BookDangShopMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" column="72" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="72" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/bean/BookDangShop.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mwj/bean/BookDangShop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/services/BookDangShopServices.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mwj/services/BookDangShopServices.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2375">
-          <caret line="95" column="45" lean-forward="false" selection-start-line="95" selection-start-column="45" selection-end-line="95" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/java/com/mwj/controller/BookDangShopController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mwj/controller/BookDangShopController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
@@ -921,7 +861,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/resources/BookTypeDangShopMapper.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/BookTypeDangShopMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
@@ -931,7 +871,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/resources/springmvc-mybaties.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc-mybaties.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
           <caret line="23" column="60" lean-forward="false" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
@@ -939,12 +879,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DangDangShop/src/main/resources/BookDangShopMapper.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/BookDangShopMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="625">
-          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
           <folding>
             <marker date="1516013325589" expanded="true" signature="1056:1127" ph="select from BOOK_DANG_SHOP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="80" column="32" lean-forward="false" selection-start-line="80" selection-start-column="32" selection-end-line="80" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="96" column="33" lean-forward="false" selection-start-line="96" selection-start-column="33" selection-end-line="96" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#3;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

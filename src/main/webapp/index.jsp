@@ -74,28 +74,27 @@
         <div id="bookTab" class="book_sort">
             <div class="book_new">
                 <div class="book_left">最新上架</div>
-             <c:forEach items="${book}" var="book">
-                 <c:if test="${book.bookParentId == 0}">
-                <div class="book_type_out" id="novel" onclick="querybook('${book.bookTypeId}')">${book.bookTypeName}</div>
-                 </c:if>
-             </c:forEach>
-                <div class="book_right"><a href="#">更多>></a></div>
-            </div>
-            <div class="book_class" style="height:250px;">
-                <!--历史-->
-                <dl id="book_history">
-                    <c:forEach items="${info}" var="in">
-                    <dt><img src="images/dd_history_1.jpg" alt="history"/></dt>
-                    <dd>
-
-                        <font class="book_title">${in.bookname}</font><br />
-                            ${in.authorname} <br />
-                            ${in.publishname}<br />
-                        <font class="book_publish">${in.publishdate}</font><br />
-                        定价：${in.bookprice}<br />
-                        当当价${in.dangbookPrice}
-                    </dd>
-                    </c:forEach>
+                <div id="bookTab" class="book_sort">
+                    <div class="book_new">
+                        <div class="book_left">最新上架</div>
+                        <div class="book_type book_type_out" id="history">历史</div>
+                        <div class="book_type" id="family">家教</div>
+                        <div class="book_type" id="culture">文化</div>
+                        <div class="book_type" id="novel">小说</div>
+                        <div class="book_right"><a href="#">更多>></a></div>
+                    </div>
+                    <div class="book_class" style="height:250px;">
+                        <!--历史-->
+                        <dl id="book_history">
+                            <dt><img src="images/dd_history_1.jpg" alt="history"/></dt>
+                            <dd>
+                                <font class="book_title">《中国时代》（上）</font><br />
+                                作者：师永刚，邹明　主编 <br />
+                                出版社：作家出版社 <br />
+                                <font class="book_publish">出版时间：2009年10月</font><br />
+                                定价：￥39.00<br />
+                                当当价：￥27.00
+                            </dd>
                     <dt><img src="images/dd_history_2.jpg" alt="history"/></dt>
                     <dd>
                         <font class="book_title">中国历史的屈辱</font><br />
