@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.mwj.mapper.BookTypeDangShopMapper" >
+  <resultMap id="BaseResultMap" type="com.mwj.bean.BookTypeDangShop" >
+    <id column="BOOK_TYPE_ID" property="bookTypeId" jdbcType="DECIMAL" />
+    <result column="BOOK_TYPE_NAME" property="bookTypeName" jdbcType="VARCHAR" />
+    <result column="BOOK_PARENT_ID" property="bookParentId" jdbcType="DECIMAL" />
+  </resultMap>
+
+  <select id="showAllBookType" resultMap="BaseResultMap">
+
+   select t.*, t.rowid from BOOKTYPE_DANG_SHOP t order by t.book_type_id
+  </select>
+
+</mapper>

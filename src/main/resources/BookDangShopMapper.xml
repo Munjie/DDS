@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.mwj.mapper.BookDangShopMapper" >
+  <resultMap id="BaseResultMap" type="com.mwj.bean.BookDangShop" >
+    <id column="BOOKID" property="bookid" jdbcType="VARCHAR" />
+    <result column="BOOKNAME" property="bookname" jdbcType="VARCHAR" />
+    <result column="AUTHORNAME" property="authorname" jdbcType="VARCHAR" />
+    <result column="PUBLISHNAME" property="publishname" jdbcType="VARCHAR" />
+    <result column="PUBLISHDATE" property="publishdate" jdbcType="TIMESTAMP" />
+    <result column="BOOKPRICE" property="bookprice" jdbcType="DECIMAL" />
+    <result column="DANGBOOK_PRICE" property="dangbookPrice" jdbcType="DECIMAL" />
+    <result column="BOOK_IMG" property="bookImg" jdbcType="VARCHAR" />
+    <result column="BOOK_TYPE" property="bookType" jdbcType="DECIMAL" />
+  </resultMap>
+
+  <select id="queryBookByType" resultMap="BaseResultMap" parameterType="java.lang.Integer" >
+    select 
+    *
+    from BOOK_DANG_SHOP
+    where BOOK_TYPE = #{bookType}
+  </select>
+
+
+
+
+</mapper>

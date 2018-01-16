@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="DangDangShop:war">
+    <output-path>$PROJECT_DIR$/../DangDangShop/target</output-path>
+    <root id="archive" name="testMavenDangDang.war">
+      <element id="artifact" artifact-name="DangDangShop:war exploded" />
+    </root>
+  </artifact>
+</component>
