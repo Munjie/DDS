@@ -83,7 +83,7 @@
         <div id="bookTab" class="book_sort">
             <div class="book_new">
                 <div class="book_left">最新上架</div>
-                <div  class="book_type" id="history" onmousemove="this.className='book_type_out'" onmouseout="this.className='book_type'">历史</div>
+                <div  class="book_type" id="history" onmousemove="add()" onmouseout="move()">历史</div>
                 <div  class="book_type"  id="family" onmousemove="this.className='book_type_out'" onmouseout="this.className='book_type'">家教</div>
                 <div  class="book_type" id="culture" onmousemove="this.className='book_type_out'" onmouseout="this.className='book_type'">文化</div>
                 <div class="book_type" id="novel" onmousemove="this.className='book_type_out'" onmouseout="this.className='book_type'">小说</div>
